@@ -1,16 +1,4 @@
-# o11v4 - Cracked by Random-Code-Guy
-
-## SUPPORT FUTURE WORKS
-
-BITCOIN : 
-```sh
-bc1qrfj48nakv0w0l5dcuw9pegvhe8c8gg4jv2eg3q
-```
-
-ETHEREUM : 
-```sh
-0xafFe735Cbc40cE323c635Ab1dcCDa0a9655a7A28
-```
+# o11v4 - Cracked 
 
 Tested on **Ubuntu 20-23**
 
